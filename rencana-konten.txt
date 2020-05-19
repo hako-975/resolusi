@@ -1,4 +1,4 @@
 RENCANA KONTEN
 - Nonton tutorial JavaScript
 - Buat Projek ringan dengan Laravel
-- Mempelajari Materi dasar struktur data
+- Belajar framework JavaScript
