@@ -1,4 +1,6 @@
 RENCANA KONTEN
 - Nonton tutorial JavaScript
 - Buat Projek ringan dengan Laravel
+- Mempelajari Python
+- Belajar Android Studio
 - Belajar framework JavaScript
