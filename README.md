@@ -1,2 +1,2 @@
-# resolusi
-Repository untuk menyinpan rencana kedepannya
+# meme
+tempat kumpulan meme unfaedah
